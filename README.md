@@ -1,6 +1,10 @@
 # RockPaperScissors
 Rock Paper Scissors Game using shell in python ( avalible in Windows and Linux )
-
+# Screenshots
+![Menu](https://i.imgur.com/yYthHNh.png)
+![OpcionesJuego](https://i.imgur.com/O34hqc9.png)
+![Victoria](https://i.imgur.com/iO4aZ3I.png)
+![Derrota](https://i.imgur.com/5zwlHVp.png)
 ## Installation
 ```linux
 sudo apt install python3
@@ -48,10 +52,6 @@ Or Use Free Ubuntu VPS [c9.io](https://c9.io/)
 # Visit Our Network :kissing_heart:
 
 [Discord](https://discord.gg/)
-
-# Screenshots
-
-![DESCRIPCION](URL)
 
 # Join the team 
  Do you want to collaborate? Join the project at URL
