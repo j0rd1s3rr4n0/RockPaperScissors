@@ -25,7 +25,7 @@ sudo pip install -r -requieriments.txt
 git clone https://github.com/j0rd1s3rr4n0/RockPaperScissors.git
 ```
 
-Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
+Follow This Video [UserYoutube](https://www.youtube.com/watch?v=ID)
 
 ## Installation
 
@@ -35,7 +35,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 git clone https://github.com/j0rd1s3rr4n0/RockPaperScissors.git
 ```
 
-Follow This Video [Arif - Tech](https://www.youtube.com/watch?v=JwK5oOBjpgQ&t=160s)
+Follow This Video [UserYoutube](https://www.youtube.com/watch?v=ID)
 
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```cmd
