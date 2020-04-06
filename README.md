@@ -1,9 +1,13 @@
 # RockPaperScissors
 Rock Paper Scissors Game using shell in python ( avalible in Windows and Linux )
 
-# Installation
+## Installation
 ```linux
 sudo apt install python3
+```
+
+```linux
+sudo apt
 ```
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
